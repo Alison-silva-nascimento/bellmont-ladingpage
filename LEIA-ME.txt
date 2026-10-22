@@ -1,0 +1,14 @@
+BELLMONT — Landing Page com catálogo real
+
+Abra index.html no navegador.
+Para publicar, mantenha a pasta assets/ junto do arquivo index.html.
+
+Conteúdo: 20 streetwear + 22 perfumes + 5 IMPÉRIO FIT.
+As fotos e os preços foram fornecidos pelo usuário.
+Não há checkout nem estoque conectado. Os links encaminham uma consulta ao WhatsApp.
+A linha IMPÉRIO FIT consulta um WhatsApp separado e não entra na sacola BELLMONT.
+As imagens foram convertidas para WebP para reduzir o tamanho do site.
+
+A landing page é uma prévia independente do site BELLMONT original.
+
+Rodapé: crédito "Desenvolvido por AS" abre o portfólio do desenvolvedor em uma nova aba.
