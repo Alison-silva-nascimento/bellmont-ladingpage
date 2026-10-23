@@ -15,6 +15,6 @@ Configuração antes da publicação:
 - Defina a URL oficial da loja em SITE_CONFIG.storeUrl, no index.html. Enquanto estiver vazia, os links “Loja completa” exibem uma mensagem informativa e não apontam para endereço fictício.
 - O projeto Cloudflare Pages permanece estático (Framework: None, Build command: exit 0, Output directory: .).
 - Pendência externa: reconectar o projeto Cloudflare Pages à conta/repositório GitHub. Isso não é um erro do HTML e exige acesso à configuração remota.
-- Termos de Uso e Política de Privacidade aguardam documentos oficiais aplicáveis a esta landing page.
+- Os Termos de Uso estão publicados em termos.html. A Política de Privacidade ainda aguarda documento oficial aplicável a esta landing page.
 
 Rodapé: crédito "Desenvolvido por AS" abre o portfólio do desenvolvedor em uma nova aba.
